@@ -1,9 +1,9 @@
-# NLP_2018-Assignments
-NLP Assignments of Pansetty Karthik (1511082)
+# NLP Assignments (CS 613)  
+Assignments of Karthik Pansetty for the course Natural Language Processing
 
-Asignment 1 Checking the validity of Zipf's Law and Heap's Law on Tom Sawyer corpus - (https://www.gutenberg.org/files/74/)
+Asignment 1 Checking the validity of Zipf's Law and Heap's Law (used Tom Sawyer corpus - https://www.gutenberg.org/files/74/)
 
-Assignment 2(used The Adventures of Sherlock Holmes by Arthur Conan Doyle - http://www.gutenberg.org/cache/epub/1661/pg1661.txt)
+Assignment 2 (used The Adventures of Sherlock Holmes by Arthur Conan Doyle - http://www.gutenberg.org/cache/epub/1661/pg1661.txt)
 
 - Computing MLE for unigram, bigram, trigrams and quadgrams.
 - Creating a Generator which generates sentences by utilizing MLEs from specified n-gram model.
