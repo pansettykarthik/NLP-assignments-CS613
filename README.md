@@ -3,7 +3,7 @@ NLP Assignments of Pansetty Karthik (1511082)
 
 Asignment 1 Checking the validity of Zipf's Law and Heap's Law on Tom Sawyer corpus - (https://www.gutenberg.org/files/74/)
 
-Assignment 2(used Alice in wonderland corpus - http://www.gutenberg.org/ebooks/11?msg=welcome_stranger)
+Assignment 2(used The Adventures of Sherlock Holmes by Arthur Conan Doyle - http://www.gutenberg.org/cache/epub/1661/pg1661.txt)
 
 Computing MLE for unigram, bigram, trigrams and quadgrams.
 creating a Generator which generates sentences by utilizing MLEs from specified n-gram model
